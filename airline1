@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-20T13:44:02.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="XGaBb2Rk829eYjRDRF34" version="20.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-20T13:44:19.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="POgnMQRPLqmKTlI90P48" version="20.8.8" type="github">
   <diagram name="Page-1" id="AlMs7lCwL0QBaZG7xSB0">
-    <mxGraphModel dx="2204" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="14390" dy="6610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -15,6 +15,9 @@
         </mxCell>
         <mxCell id="1332GgYKQjcRBgxDubUO-4" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=default;" vertex="1" parent="1332GgYKQjcRBgxDubUO-3">
           <mxGeometry y="30" width="1850" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="1332GgYKQjcRBgxDubUO-80" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=default;" vertex="1" parent="1332GgYKQjcRBgxDubUO-3">
+          <mxGeometry y="120" width="1850" as="geometry" />
         </mxCell>
         <mxCell id="1332GgYKQjcRBgxDubUO-5" value="Ticket Issuance Information" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="1200" y="870" width="220" height="120" as="geometry" />
